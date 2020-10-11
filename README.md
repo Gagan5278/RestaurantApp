@@ -4,7 +4,7 @@
   User badge.dart for adding badge count with Icon button any other widget
   #### How To 
   //add in Action of App Bar
-
+```
   AppBar(
         brightness: Brightness.dark,
         elevation: 0.0,
@@ -16,7 +16,7 @@
               value: badge_count.toString())
         ],
       ),
-  
+  ```
  
 ## A demo UI for Restaurant App developed in Flutter.
 
